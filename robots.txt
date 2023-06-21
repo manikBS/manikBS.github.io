@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://manikBS.github.io/manikBS/sitemap.xml
